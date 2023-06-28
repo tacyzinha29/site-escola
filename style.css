@@ -1,6 +1,6 @@
 body{
-    background-color: #210253;
-    color: rgb(255, 255, 255)
+    background-color: #7d5ec5;
+    color: rgb(253, 253, 253)
 }
 .cabecalho {
     background-color: #383D58;
@@ -8,27 +8,41 @@ body{
     display:flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
-    }
+    padding: 24px;
 
-.escola-imagem{
+}
+.cabecalho-imagem{
     width: 20%;
 }
-
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
 }
 
-   .formula {
-        width:10%;
-        height:40% ;
-        }
-.escola-imagem {
+  .formula{ 
+    width: 10%;
+    height: 40%;
+  }
+  .escola-imagem{
     width: 25%;
-}
-
-.estudantes {
+    
+  }
+  .guilherme {
     width: 288px;
-}
+  }
+  .raquel {
+    width: 192px;
+  }
+  .rafael {
+    width: 161px;
+  }
+  .gabi {
+    width: 162px;
+  }
+  .jose {
+    width: 302px;
+  }
+  .monique {
+    width: 360px;
+  }
